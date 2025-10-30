@@ -1,0 +1,18 @@
+
+header{
+    display: flex;
+    height: 67px;
+    padding: 0 162px 0 162px;
+    justify-content: center;
+    align-items: center;
+    gap: 73px;
+    background: #032D62;
+}
+
+.menu_text_cont{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    width: 941px;
+
+}
