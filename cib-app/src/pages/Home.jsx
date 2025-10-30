@@ -5,6 +5,7 @@ import NavBar from '../components/layout/NavBar';
 const Home = () => {
     return ( 
         <NavBar />
+        
      );
 }
  
