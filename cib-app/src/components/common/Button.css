@@ -1,0 +1,18 @@
+button{
+    display: inline-flex;
+    width: 163px;
+    height: 47px;
+    padding: 15.5px 24.47px 17.5px 24px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 6px;
+    background: #1858A8;
+    color: #FFF;
+    font-family: "Inter", sans-serif;
+    font-size: 14.9px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 14px; /* 93.96% */
+}

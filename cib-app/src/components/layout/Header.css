@@ -1,0 +1,32 @@
+.hero_section{
+    background-image: url(../../assets/HeroImg.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    width: 1427px;
+    height: 628.38px;
+    align-content: center;
+    padding-top: 190px;
+    padding-left: 172px;
+    gap: 18px;
+    color: white;
+}
+
+h1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 37.3px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 128.686% */
+}
+
+p{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 37.3px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 128.686% */
+}
