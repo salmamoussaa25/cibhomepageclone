@@ -4,6 +4,7 @@ import NavBar from '../components/layout/NavBar';
 import Header from '../components/layout/Header';
 import SmallMenuTap from '../components/common/SmallMenuTap';
 import SubTitle from '../components/common/SubTitle';
+import SectionTitle from '../components/common/SectionTitle';
 
 const Home = () => {
     return ( 
@@ -22,6 +23,7 @@ const Home = () => {
         <section className='applyOnlineSection'>
             <section className='applyTextCont'>
                 <SubTitle title="APPLY NOW" />
+                <SectionTitle title=" Apply online now for cards and loans with ease!" />
             </section>
         </section>
         </>
